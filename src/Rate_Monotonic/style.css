@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 5, 2017, 3:26:00 PM
+    Author     : programming
+*/
+
+.field-back{
+
+    -fx-animated: true;
+    -fx-text-fill: black   ;
+    -fx-prompt-text-fill:  darkgoldenrod;
+    -fx-highlight-text-fill: black ;
+    -fx-highlight-fill:  gray ;
+    -fx-background-color: rgba(255,255,255, 0.8 );
+
+
+
+}
